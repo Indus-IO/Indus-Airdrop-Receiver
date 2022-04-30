@@ -32,6 +32,7 @@ namespace Indus_Airdrop_Receiver
         
         public Program()
         {
+            //test
             string email, password;
 
             if(!File.Exists(loginDataPath))
